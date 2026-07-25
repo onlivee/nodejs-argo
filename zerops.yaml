@@ -1,5 +1,5 @@
 zerops:
-  - setup: nodeapp
+  - setup: nodejsargo
     build:
       base: alpine/nodejs@22
       buildCommands:
